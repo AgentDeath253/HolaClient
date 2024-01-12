@@ -1,10 +1,10 @@
 {
-    "index": "index.ejs",
+    "index": "auth/login.ejs",
     "notfound": "errors/404.ejs",
     "unauthorized": "errors/403.ejs",
     "redirect": {
         "callback": "/dashboard",
-        "logout": "/",
+        "logout": "auth/login.ejs",
         "deleteserver": "/dashboard",
         "updateservers": "/dashboard",
         "invalidcredentials": "/auth",
