@@ -64,7 +64,7 @@
         "birthday": "features/birthday.ejs",
         "blackmart": "resources/blackmart.ejs",
         "buy": "users/buy.ejs",
-        "cookies": "legal/cookies.ejs",
+        "cookies": "/",
         "dashboard": "users/dashboard.ejs",
         "earn": "earn/earn.ejs",
         "exchange": "resources/exchange.ejs",
@@ -75,7 +75,7 @@
         "onboarding": "features/onboarding.ejs",
         "pages": "robots.txt",
         "play": "users/play.ejs",
-        "pp": "legal/pp.ejs",
+        "pp": "/",
         "referral": "earn/referral.ejs",
         "register": "auth/register.ejs",
         "robots.txt": "robots.txt",
@@ -84,7 +84,7 @@
         "server/plugins": "users/plugins.ejs",
         "settings": "users/settings.ejs",
         "store": "resources/store.ejs",
-        "tos": "legal/tos.ejs",
+        "tos": "/",
         "vpn": "/alerts/vpn.ejs"
     },
     "mustbeloggedin": [
