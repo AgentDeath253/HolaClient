@@ -1,5 +1,5 @@
 {
-    "index": "resources/views/landing/default/index.ejs",
+    "index": "resources/views/layouts/default/others/auth.ejs",
     "errors": {
         "401": "resources/views/errors/401.ejs",
         "403": "resources/views/errors/403.ejs",
@@ -17,7 +17,7 @@
         "login": "/authenticate"
     },
     "pages": {
-        "/": "resources/views/landing/default/index.ejs",
+        "/": "resources/views/layouts/default/others/auth.ejs",
         "admin/coins": "resources/views/admin/default/coins.ejs",
         "admin/coupons": "resources/views/admin/default/coupons.ejs",
         "admin/home": "resources/views/admin/default/index.ejs",
